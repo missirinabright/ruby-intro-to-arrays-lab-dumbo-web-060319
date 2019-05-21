@@ -6,3 +6,6 @@
    [1,2]
  end
  
+def
+array[0]
+end
