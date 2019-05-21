@@ -6,6 +6,6 @@
   [1,2]
  end
  
-def
+def first_element(array)
   array[0]
 end
